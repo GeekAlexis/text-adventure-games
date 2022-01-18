@@ -1,0 +1,12 @@
+take pistol
+go east
+talk to the caped man
+go west
+go north
+shoot the scientist with pistol
+take red pill
+swallow red pill
+go south
+go east
+fight the caped man
+go east
